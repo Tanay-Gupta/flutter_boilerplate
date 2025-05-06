@@ -1,16 +1,13 @@
-# flutter_boilerplate
+# 🚀 Flutter Mobile Boilerplate
 
-A new Flutter project.
+A clean and scalable Flutter boilerplate project **designed specifically for mobile app development**. This template helps you kickstart your Flutter projects faster with a predefined folder structure, routing setup, asset management, and commonly used utilities.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 What’s Included
 
-A few resources to get you started if this is your first Flutter project:
+- ✅ Modular folder structure (feature-oriented)
+- ✅ Preconfigured asset folders (images, icons, fonts, lottie, etc.)
+- ✅ Clean, maintainable code base
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
